@@ -1,4 +1,5 @@
 # CECS 277: Pokemon Part 2
+Pokemon Project 2 assigned by Shanon Cleary CECS 277 CSULB.
 ### Using OOP to design a text-based version of Pokemon
 
 ## Purpose of the Project 
